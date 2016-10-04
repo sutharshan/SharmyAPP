@@ -16,14 +16,4 @@
   <author href="https://tag365.com" email="sutharshan@live.com">
      Sutharshan & Sharmy
   </author>
-<!-- Default application icon -->
-<icon src="www/res/img/icon.png" />
-<!--
-    Default icon should work, but cordova don't overwrite
-    the default on all densities
--->
-<icon src="www/res/img/icon.png" platform="android" density="ldpi" />
-<icon src="www/res/img/icon.png" platform="android" density="mdpi" />
-<icon src="www/res/img/icon.png" platform="android" density="hdpi" />
-<icon src="www/res/img/icon.png" platform="android" density="xhdpi" />
 </widget>
