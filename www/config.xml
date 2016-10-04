@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.phonegap.SharmyApp"
+    id          = "com.phonegap.sharmyapp"
     versionCode = "10"
     version     = "1.0.0" >
 
@@ -14,6 +14,6 @@
   </description>
 
   <author href="https://tag365.com" email="sutharshan@live.com">
-     Sutharshan & Sharmy
+     Sutharshan &amp; Sharmy
   </author>
 </widget>
